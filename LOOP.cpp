@@ -15,7 +15,7 @@ for(int i =0;i<5;i++){
   cout<<"Enter "<<i+1<<" element of arr[20]" <<endl;
     cin>>arr[i];
 }
-cout<<"The entered arrays are "<<endl;
+cout<<"The entered arrays elements are "<<endl;
 for (int i=0;i<5;i++){
     cout<<" "<<arr[i]<<endl;
 }
